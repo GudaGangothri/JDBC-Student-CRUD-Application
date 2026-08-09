@@ -275,36 +275,35 @@ jdbc:mysql://localhost:3306/student_management
 5. Perform the required operation.
 
 ---
-
 # 📸 Screenshots
 
 ### 1. Add Student
 
-![Add Student](screenshots/add-student.png)
+![Add Student](./add-student.png)
 
 ### 2. View All Students
 
-![View All Students](screenshots/view-students.png)
+![View All Students](./view-students.png)
 
 ### 3. Search Student
 
-![Search Student](screenshots/search-student.png)
+![Search Student](./search-student.png)
 
 ### 4. Update Student
 
-![Update Student](screenshots/update-student.png)
+![Update Student](./update-student.png)
 
 ### 5. Verify Updated Student
 
-![Verify Updated Student](screenshots/verifyupdate-student.png)
+![Verify Updated Student](./verifyupdate-student.png)
 
 ### 6. Delete Student
 
-![Delete Student](screenshots/delete-student.png)
+![Delete Student](./delete-student.png)
 
 ### 7. Verify Deleted Student
 
-![Verify Deleted Student](screenshots/verifydelete-student.png)
+![Verify Deleted Student](./verifydelete-student.png)
 
 ---
 
